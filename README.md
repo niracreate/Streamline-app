@@ -90,4 +90,4 @@ Follow the steps to install and set up your app. If you have any trouble in sett
 ## Team Members
 * Rahul Karki
 * Nirakar Bogati (Me)
-* Sanish Bal
+* Sanish Bal (shyalfox)
