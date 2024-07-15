@@ -23,7 +23,10 @@ Click the image to play the video.
 
 [<img src="https://img.youtube.com/vi/zwt3wSnS8fo/0.jpg" width="100">](https://www.youtube.com/watch?v=zwt3wSnS8fo)
 
-
+## App Test
+  Install 'Expo Go' application from play store/app store and scan the QR Code
+      <img src="https://github.com/niracreate/Streamline-app/blob/main/build.png" alt="" >
+  Development Build
 
 
 ## Scope/Features
@@ -87,6 +90,7 @@ Follow the steps to install and set up your app. If you have any trouble in sett
    ```sh
    yarn start
    ```
+
 
 ## Team Members
 * Rahul Karki
