@@ -13,7 +13,7 @@
 
 <div align="center">
     <p align="justify"> 
-   Streamline is an  mobile application that simplifies your digital experience by consolidating multiple features into a single platform. Say goodbye to switching between various apps and websites. With it, you can access a range of functionalities, reducing the need for multiple app downloads and saving storage space on your device. Enjoy a seamless user experience and discover a more efficient way to navigate your digital lifestyle.
+   Streamline is a mobile application that simplifies your digital experience by consolidating multiple features into a single platform. Say goodbye to switching between various apps and websites. With it, you can access a range of functionalities, reducing the need for multiple app downloads and saving storage space on your device. Enjoy a seamless user experience and discover a more efficient way to navigate your digital lifestyle.
     </p>
 </div>
 
@@ -25,7 +25,7 @@ Click the image to play the video.
 
 ## App Test
   Install 'Expo Go' application from play store/app store and scan the QR Code
-      <img src="https://github.com/niracreate/Streamline-app/blob/main/build.png" alt="" >
+      <img src="https://github.com/niracreate/Streamline-app/blob/main/build.png" alt="" width="600" height="600">
   Development Build
 
 
