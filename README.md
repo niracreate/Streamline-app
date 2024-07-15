@@ -24,8 +24,8 @@ Click the image to play the video.
 [<img src="https://img.youtube.com/vi/zwt3wSnS8fo/0.jpg" width="100">](https://www.youtube.com/watch?v=zwt3wSnS8fo)
 
 ## App Test
-  To test the app install 'Expo Go' application from play store/app store and scan the QR Code
-<strong>  Development Build <strong> <br>
+  To test the app install 'Expo Go' application from play store/app store and scan the QR Code <br>
+<strong>  Development Build <strong> <br> <br>
    <img src="https://github.com/niracreate/Streamline-app/blob/main/build.png" alt="" width="200" height="200"> 
    
 
