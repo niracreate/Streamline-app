@@ -74,17 +74,18 @@ Follow the steps to install and set up your app. If you have any trouble in sett
    ```sh
      git clone https://github.com/HerShe04/Streamline-app.git
    ```
-2. Install NPM packages
+2. Install yarn packages
    ```sh
-   npm install
+   yarn install
    ```
-   or
-   ```sh
-   npm install --legacy-peer-deps
-   ```
+ 
 3. Start the project
    ```sh
    npx expo start
+   ```
+     or
+   ```sh
+   yarn start
    ```
 
 ## Team Members
