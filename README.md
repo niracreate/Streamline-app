@@ -25,7 +25,7 @@ Click the image to play the video.
 
 ## App Test
   To test the app install 'Expo Go' application from play store/app store and scan the QR Code
-<strong>  Development Build <strong>
+<strong>  Development Build <strong> <br>
    <img src="https://github.com/niracreate/Streamline-app/blob/main/build.png" alt="" width="200" height="200"> 
    
 
